@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marius</h1>
 <h3 align="center">A passionate Beginner Web developer</h3>	
 
-- 🔭 I’m currently working on [MShade](https://github.com/MSh4de)
+- 🔭 I’m currently working on a WebSite
 
-- 🌱 I’m currently learning **Kotlin**
+- 💬 Ask me about **Web**
 
-- 📝 I regularly write articles [here](https://itsme.to/tag/mshade/)
+- 📫 How to reach me **marius.dev.pro@hotmail.com**
 
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **realalpha.ua@gmail.com**
-
-- 📄 Know about my experiences 4 years in java development
+- 📄 I'm a beginner Web developer
 
 - ⚡ Fun fact **Always curious**
 
